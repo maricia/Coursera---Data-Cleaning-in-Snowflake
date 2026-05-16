@@ -67,6 +67,11 @@ Reviewed datasets for:
 - Duplicates
 - Formatting inconsistencies
 - Incorrect data types
+  
+### Data Quality Investigation
+Profiling the dataset to identify missing values, duplicates, and formatting inconsistencies.
+-<img width="2191" height="865" alt="image" src="https://github.com/user-attachments/assets/e9e051ee-b30b-44ae-9bda-af732d52d30b" />
+
 
 ### 3. Clean Text Fields
 Applied string functions to:
