@@ -79,6 +79,10 @@ Applied string functions to:
 - Standardize formatting
 - Split combined columns
 
+### Data Cleaning Transformations
+Applying SQL functions to standardize text fields, split names, and convert dates.
+<img width="1198" height="602" alt="image" src="https://github.com/user-attachments/assets/5db2ae27-6b2f-485e-a8a3-5b5d90e1821a" />
+
 ### 4. Convert Dates
 Converted text values into usable date fields.
 
@@ -96,6 +100,9 @@ DATEDIFF(
     CURRENT_DATE()
 )
 ```
+### Inactive Customer Analysis
+Identified customers with no transactions within the previous 90 days for marketing targeting.
+-<img width="1103" height="554" alt="image" src="https://github.com/user-attachments/assets/27d183de-71e8-4a0f-853f-3a1e743bd5fd" />
 
 ### 6. Handle Missing Data
 Applied data quality strategies:
